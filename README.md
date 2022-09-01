@@ -3,7 +3,7 @@
 1. Author
    - First_Name (решил декомпозировать ФИО на отдельные поля)
    - Last_name
-   - Middle_name
+   - Patronymic
    - Avatar
    - Birth_date (не понял в задании имелась ввиду дата или год, дата звучит логичнее)
    - Biography
